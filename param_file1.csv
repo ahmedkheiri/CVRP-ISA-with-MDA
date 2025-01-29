@@ -1,0 +1,4 @@
+dataname,infolder,outfolder,maxPerf,absPerf,epsilon
+cost_2f,/home/xx_path/metadata/,/home/xx_path/c2f-tr0/,0,0,0.0
+cost_2s,/home/xx_path/metadata/,/home/xx_path/c2s-tr0/,0,0,0.0
+
